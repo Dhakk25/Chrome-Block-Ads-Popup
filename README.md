@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Popup & Ad Blocker Chrome Extension
 
 **(English below - Tiếng Việt phía trên)**
@@ -139,3 +140,7 @@ If you find this extension helpful, please support me at:
 ### 🤝 Contributing
 - Pull requests, issues, and suggestions are welcome!
 - Please keep code clear and well-commented. 
+=======
+# Chrome-Block-Ads-Popup
+Chrome extension to block popups, ads, cookie banners, overlays, and auto-play videos. Modern UI, easy to use
+>>>>>>> 07f21c7a965b68a4b51a52e676664cd710cec92f
